@@ -12,4 +12,5 @@ Collaborative research repository for complementary analyses of the StudyForrest
 | Positive-negative contact classification from ROI | Tamar | Using body contact annotations, this work trie sto see if one functionally defined ROI (EBA) represents negative and positive contact diffeentailly for one subject (using classification). |
 | The effect of annotaions on V1 activity prediction | Junru | Planned to build enocders that take annotations as auxiliary input to predict V1 activity. Failed due to the struggle in alignning MRI spaces. |
 | Group localizer task (GLM) analysis | Sam | Learned nilearn through group analysis, but had some alignment and preprocessing to do too |
+|Physiological signals & portrayed emotion | Ricky | This work used cardiac and respiratory recordings to test whether physiological arousal predicts (and is predicted by) annotator-rated character emotion during the movie, across 11 subjects. Found no significant relationship
 Please add new directions as their own top-level directories and add one row here.
