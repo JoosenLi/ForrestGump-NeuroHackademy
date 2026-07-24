@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.npz
+*.pt
+*.nii
+*.nii.gz
+*.mgz
+work/
+models/
+features/
+labels/
+results/*.csv
