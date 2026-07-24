@@ -13,4 +13,3 @@ Collaborative research repository for complementary analyses of the StudyForrest
 | The effect of annotaions on V1 activity prediction | Junru | Planned to build enocders that take annotations as auxiliary input to predict V1 activity. Failed due to the struggle in alignning MRI spaces. |
 | Group localizer task (GLM) analysis | Sam | Learned nilearn through group analysis, but had some alignment and preprocessing to do too |
 Please add new directions as their own top-level directories and add one row here.
-66
