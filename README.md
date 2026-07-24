@@ -7,5 +7,6 @@ Collaborative research repository for complementary analyses of the StudyForrest
 | Direction | Lead | Current scope |
 | --- | --- | --- |
 | [Emotion analysis — Qiaoxin](Emotion%20analysis-Qiaoxin/README.md) | Qiaoxin | Human emotion annotations, cross-subject ROI decoding, and inter-subject correlation during the movie. |
+| Localization of regions via Encoding Analysis | Pushpita | Using the available annotations in the dataset, this work uses encoding model-based analyses to localize high- and low-level audio and visual information processing in one subject. |
 
 Please add new directions as their own top-level directories and add one row here.
