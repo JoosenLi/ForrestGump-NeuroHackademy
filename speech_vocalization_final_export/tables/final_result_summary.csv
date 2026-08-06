@@ -1,0 +1,2 @@
+analysis,runs,FDR_q,FDR_z_threshold,speech_gt_vocal_voxels,vocal_gt_speech_voxels,negative_cluster_voxels,negative_cluster_volume_mm3,peak_x,peak_y,peak_z_coordinate,peak_statistic,atlas_label
+speech minus nonspeech vocalizations,"01, 02, 03, 05",0.05,4.610226631163551,1,44,44,83.47508133342188,58.93018377944827,-39.86979105696082,15.378617549315095,-5.193787574768066,"Supramarginal Gyrus, posterior division"
